@@ -1,4 +1,4 @@
-# Final-Projek-Kecerdasan-Buatan
+# Final-Projek-Kecerdasan-Buatan-D081
 Repo ini berisi tugas Final Projek Kecerdasan Buatan D081
 Kelompok 3
 - 21081010051 Rizky Fathur Rohman
